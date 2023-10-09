@@ -1,6 +1,8 @@
 # Context
 Welcome to the shopping world of Istanbul! The dataset contains shopping information from 10 different shopping malls between 2021 and 2023. The data is collected from various age groups and genders to provide a comprehensive view of shopping habits in Istanbul. The dataset includes essential information such as invoice numbers, customer IDs, age, gender, payment methods, product categories, quantity, price, order dates, and shopping mall locations.
 
+![image](https://github.com/MarkPhamm/Python-Istanbul-Shopping-Analysis/assets/99457952/d77ebccb-37ae-4ec9-ac1c-41366fe28152)
+
 # Content
 **Attribute Information:**
 
